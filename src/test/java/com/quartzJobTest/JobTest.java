@@ -26,7 +26,7 @@ public class JobTest {
 
     }
 
-    @Test//测试
+    @Test//测试dev
     public void main() {
         JobTest jobTest = new JobTest();
         try {
