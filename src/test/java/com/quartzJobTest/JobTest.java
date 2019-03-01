@@ -26,7 +26,7 @@ public class JobTest {
 
     }
 
-    @Test//测试dev-git测试
+    @Test//测试dev-git测试-且分会
     public void main() {
         JobTest jobTest = new JobTest();
         try {
